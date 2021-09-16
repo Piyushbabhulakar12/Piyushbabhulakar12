@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyushbabhulakar12
-- 👀 I’m interested in Web Developer and Web Design
+- 👀 I’m interested in Web Developer / Web Design / UI Design
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://piyushbabhulakar12.github.io/piyushbabhulakar
