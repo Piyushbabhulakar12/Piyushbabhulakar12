@@ -1,23 +1,21 @@
-👋 Hello there! I'm Piyush, a mindful UI/UX Designer and versatile Web Developer with a passion for crafting engaging digital experiences.
+<h1 align="center">Hi 👋, I'm Piyush Babhulakar</h1>
+<h3 align="center">Passionate Frontend Developer & Web Designer | Crafting Seamless UI/UX Experiences</h3>
 
-My journey began in the realm of Web Design, where I honed my skills working with startups, witnessing firsthand the transformative process of bringing a product to life from its earliest stages to fruition. It was during this time that I delved into the intricacies of HTML & CSS, discovering the power of dynamic websites and custom solutions.
+- 👨‍💻 All of my projects are available at [https://piyushbabhulakar12.github.io/piyushbabhulakar/](https://piyushbabhulakar12.github.io/piyushbabhulakar/)
 
-Since then, my path has led me to explore the dynamic world of Web Development, where I've had the privilege of contributing to projects at various stages of development. My focus now is on creating clean UI designs and dynamic websites that not only look great but also offer seamless user experiences.
+- 💬 Ask me about **react js**
 
-Currently, I'm dedicated to my role as a Frontend Developer, continually seeking to expand my knowledge and skills while staying abreast of the latest trends and technologies in the industry. I thrive on the challenge of learning new things and leveraging them to elevate my craft.
+- 📫 How to reach me **piyushbabhulakar12@gmail.com**
 
-Let's connect and collaborate on projects that inspire innovation and creativity!
+- 📄 Know about my experiences [https://piyushbabhulakar12.github.io/piyushbabhulakar/Piyush%20Babhulakar%20Resume.pdf](https://piyushbabhulakar12.github.io/piyushbabhulakar/Piyush%20Babhulakar%20Resume.pdf)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-babhulakar-839b57200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-babhulakar-839b57200/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mr.piyush.14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.piyush.14/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/piyushbabhulakar/shots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/piyushbabhulakar/shots" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/piyushbabhula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/piyushbabhula" height="30" width="40" /></a>
+</p>
 
-- 👋 Hi, I’m @Piyushbabhulakar12
-- 👀 I’m interested in Web Developer / Web Design / UI Design
-- 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Piyush Babhulakar's Portfolio](https://piyushbabhulakar12.github.io/piyushbabhulakar)
-
-
-<!---
-Piyushbabhulakar12/Piyushbabhulakar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
