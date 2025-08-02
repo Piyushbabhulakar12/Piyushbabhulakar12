@@ -5,7 +5,6 @@
 </h1>
 
 
-<h3 align="center">Passionate Software Developer</h3>
 
 <h3 align="center">Software Developer | Frontend Developer</h3>
 <br/>
