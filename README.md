@@ -7,17 +7,40 @@
 
 <h3 align="center">Passionate Software Developer</h3>
 
+<h3 align="center">Software Developer | Frontend Developer</h3>
 <br/>
 
+<p>
+  I'm <strong>Piyush Babhulakar</strong>, a passionate <strong>Software Developer</strong> with a strong focus on <strong>Frontend Development</strong>. 
+  I specialize in building responsive and interactive web applications using <strong>React.js</strong>, <strong>JavaScript (ES6+)</strong>, <strong>Next.js</strong>, and modern web tools.
+</p>
 
-- 👨‍💻 All of my projects are available at [https://piyushbabhulakar12.github.io/piyushbabhulakar/](https://piyushbabhulakar12.github.io/piyushbabhulakar/)
+<p>
+  I enjoy transforming complex problems into simple, beautiful, and intuitive designs. My goal is to create seamless user experiences and scalable solutions.
+</p>
 
-- 💬 Ask me about **react js**
+<p>
+  🔧 Tech Stack: React.js, JavaScript (ES6+), HTML, CSS, Bootstrap, Material UI, Node.js, Express.js, Firebase, and more.
+</p>
 
-- 📫 How to reach me **piyushbabhulakar12@gmail.com**
+<p>
+  💼 Check out all my projects here: 
+  <a href="https://piyushbabhulakar12.github.io/piyushbabhulakar/" target="_blank">
+    piyushbabhulakar12.github.io/piyushbabhulakar/
+  </a>
+</p>
 
-- 📄 Know about my experiences [Resume](https://piyushbabhulakar12.github.io/piyushbabhulakar/Piyush%20Babhulakar%20Resume.pdf)
+<p>
+  📄 View my resume: 
+  <a href="https://piyushbabhulakar12.github.io/piyushbabhulakar/Piyush%20Babhulakar%20Resume.pdf" target="_blank">
+    Piyush Babhulakar Resume
+  </a>
+</p>
 
+<p>
+  📬 Reach me at: 
+  <a href="mailto:piyushbabhulakar12@gmail.com">piyushbabhulakar12@gmail.com</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
