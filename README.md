@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">Passionate Frontend Developer & Web Designer | Crafting Seamless UI/UX Experiences</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 <br/>
 
